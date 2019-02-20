@@ -1,0 +1,28 @@
+// iframe {
+//   // margin-top: 30px;
+// }
+
+.video_container {
+  height: 155px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 30px;
+  display: flex;
+  margin-bottom: 10px;
+}
+.hello {
+  height: 195px;
+}
+.video_title {
+  font-family: "Cardo", serif;
+  font-size: 28px;
+  text-align: left;
+  margin: 0 10px 10px 10px;
+}
+
+.video_description {
+  font-family: "Cardo", serif;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: left;
+  margin: 0 10px 10px 10px;
+}

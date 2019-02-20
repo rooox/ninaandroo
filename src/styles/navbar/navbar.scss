@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Cinzel");
+@import url("https://fonts.googleapis.com/css?family=Cardo");
+// .navbar {
+//   // background-color: #80915a;
+// }
+.routes_container {
+  margin-left: 15%;
+  width: 64%;
+  height: 50px;
+  display: grid;
+  grid-template-columns: 20% 20% 30% 20% 20%;
+  text-decoration: none;
+}
+.route_container {
+  height: 26px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.route_container:hover {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0;
+  // align-items: center;
+  // display: inline-block;
+}
+.route_container_active {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0;
+  // align-items: center;
+  // display: inline-block;
+}
+
+.route_links {
+  color: black;
+  font-size: 11px;
+  padding: 0;
+  // font-family: "Cardo", serif;
+  font-family: $main_font;
+  font-weight: 100;
+  display: inline-block;
+  line-height: 26px;
+}
+
+link {
+  text-decoration: none;
+}
+.ninaandroo {
+  color: black;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 5px;
+  border-style: solid;
+  padding: 7px 0 0px 0;
+  border-width: 1px;
+  width: 99%;
+  height: 30px;
+  font-family: "Cinzel", serif;
+  background-color: white;
+  letter-spacing: 4px;
+}
