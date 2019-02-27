@@ -9,9 +9,9 @@ export default class Home extends Component {
         <br />
         <h4 className="thanks">Thank you for coming!</h4>
         <h4 className="thanks_blurb">
-          We have genuinely enjoyed sharing what we love with you and are
-          grateful for the support! We post new videos every other Thursday and
-          hope you continue to enjoy what we present.
+          We have genuinely enjoy sharing what we love with you and are grateful
+          for the support! We post new videos every other Thursday and hope you
+          continue to enjoy what we present.
         </h4>
         <br />
         <br />
@@ -20,13 +20,13 @@ export default class Home extends Component {
           Feel free to follow us with the links below:
         </h4>
         <div className="insta_fb_container">
-          <div className="yt_container">
+          <div className="yt_container " id="home_links">
             <a href="https://www.youtube.com/channel/UCpzd7Kf4IFClcKO63E0CJXw">
               <img src={YT} className="youtube" alt="YouTube Logo" />
             </a>
             <h4 className="youtube text">Nina & Roo</h4>
           </div>
-          <div className="insta_container">
+          <div className="insta_container " id="home_links">
             <a href="https://www.instagram.com/ninaandroo/">
               <img src={Insta} className="insta" alt="Instagram Logo" />
             </a>

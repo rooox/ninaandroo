@@ -26,19 +26,19 @@ export default class Contact extends Component {
           <button className="submit">SEND</button>
         </div> */}
         <div className="insta_yt_insta_container">
-          <div className="insta_container">
+          <div className="insta_container " id="cu_box">
             <a href="mailto:ninaandroomusic@gmail.com">
               <img src={Email} className="insta" alt="Instagram Logo" />
             </a>
             <h4 className="insta text">ninaandroomusic@gmail.com</h4>
           </div>{" "}
-          <div className="yt_container">
+          <div className="yt_container " id="cu_box">
             <a href="https://www.youtube.com/channel/UCpzd7Kf4IFClcKO63E0CJXw">
               <img src={YT} className="youtube" alt="YouTube Logo" />
             </a>
             <h4 className="youtube text">Nina & Roo</h4>
           </div>
-          <div className="insta_container">
+          <div className="insta_container " id="cu_box">
             <a href="https://www.instagram.com/ninaandroo/">
               <img src={Insta} className="insta" alt="Email Icon" />
             </a>
