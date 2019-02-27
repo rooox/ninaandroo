@@ -4,7 +4,11 @@ export default class Blog extends Component {
   render() {
     return (
       <div className="body">
-        <h4>Blog</h4>
+        <br />
+        <br />
+        <br />
+        <br />
+        <h4 className="coming">Coming Soon!</h4>
       </div>
     );
   }

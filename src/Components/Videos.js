@@ -4,9 +4,10 @@ export default class Videos extends Component {
   render() {
     return (
       <div className="body">
-        <br />
+        <br className="break" />
         <div className="video_container">
           <iframe
+            title="I Only See You"
             width="280"
             height="158"
             rel="0"
@@ -32,8 +33,9 @@ export default class Videos extends Component {
           </div>
         </div>
         <br />
-        <div className="video_container hello">
+        <div className="video_container">
           <iframe
+            title="Hello World"
             width="280"
             height="158"
             rel="0"

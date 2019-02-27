@@ -1,12 +1,15 @@
+.email_yt_insta_container {
+  display: flex;
+}
 .contact_title {
-  font-family: "Noto Serif", serif;
+  font-family: $main_font;
   font-size: 40px;
   text-align: left;
   margin: 15px 0 10px 36px;
 }
 
 .contact_blurb {
-  font-family: "Noto Serif", serif;
+  font-family: $main_font;
   font-size: 15px;
   line-height: 21px;
   text-align: left;
@@ -54,4 +57,19 @@
   font-family: "Noto Serif", serif;
   background-color: #3a3838;
   color: white;
+}
+
+.submit:hover {
+  background-color: #272626;
+}
+
+@media (max-width: 800px) {
+  .contact_title {
+    text-align: center;
+    margin: 20px;
+  }
+  .contact_blurb {
+    text-align: center;
+    margin: 15px;
+  }
 }

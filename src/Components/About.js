@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Photo from "./Photo.jpg";
+import Photo from "./assets/Photo.jpg";
 
 export default class About extends Component {
   render() {
@@ -10,7 +10,12 @@ export default class About extends Component {
         <div className="about_us_container">
           <header className="about_us_title">About Us</header>
           <div className="img_about_container">
-            <img src={Photo} className="photo" align="left" />
+            <img
+              src={Photo}
+              className="photo"
+              align="left"
+              alt="Nina and Roo "
+            />
             <br />
             <p className="about_us_body">
               We are a husband and wife who love making music. We were born and

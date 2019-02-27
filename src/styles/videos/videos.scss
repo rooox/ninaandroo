@@ -3,15 +3,13 @@
 // }
 
 .video_container {
-  height: 155px;
+  height: 195px;
   background-color: rgba(255, 255, 255, 0.2);
   padding: 30px;
   display: flex;
   margin-bottom: 10px;
 }
-.hello {
-  height: 195px;
-}
+
 .video_title {
   font-family: "Cardo", serif;
   font-size: 28px;
@@ -23,6 +21,28 @@
   font-family: "Cardo", serif;
   font-size: 15px;
   line-height: 21px;
-  text-align: left;
+  text-align: justify;
   margin: 0 10px 10px 10px;
+  height: 174px;
+  overflow: scroll;
+}
+
+@media (max-width: 830px) {
+  .video_title {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 730px) {
+  .video_container {
+    display: block;
+    height: 355px;
+    padding: 21px;
+  }
+  .body {
+    overflow: scroll;
+  }
+  .video_title {
+    margin: 8px 10px 4px 10px;
+  }
 }
