@@ -20,18 +20,18 @@ export default class Home extends Component {
           Feel free to follow us with the links below:
         </h4>
         <div className="insta_fb_container">
-          <div className="yt_container " id="home_links">
-            <a href="https://www.youtube.com/channel/UCpzd7Kf4IFClcKO63E0CJXw">
+          <a href="https://www.youtube.com/channel/UCpzd7Kf4IFClcKO63E0CJXw">
+            <div className="yt_container " id="home_links">
               <img src={YT} className="youtube" alt="YouTube Logo" />
-            </a>
-            <h4 className="youtube text">Nina & Roo</h4>
-          </div>
-          <div className="insta_container " id="home_links">
-            <a href="https://www.instagram.com/ninaandroo/">
+              <h4 className="youtube text">Nina & Roo</h4>
+            </div>
+          </a>
+          <a href="https://www.instagram.com/ninaandroo/">
+            <div className="insta_container " id="home_links">
               <img src={Insta} className="insta" alt="Instagram Logo" />
-            </a>
-            <h4 className="insta text">@ninaandroo</h4>
-          </div>
+              <h4 className="insta text">@ninaandroo</h4>
+            </div>
+          </a>
         </div>
       </div>
     );
