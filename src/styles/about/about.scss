@@ -4,6 +4,7 @@
   height: calc(100vh - 50px);
   width: 100vw;
   background-image: url(mountains.jpg);
+  -webkit-filter: grayscale(1);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;

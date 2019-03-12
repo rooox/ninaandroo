@@ -1,7 +1,7 @@
 {
-  "main.css": "/ninaandroo/static/css/main.59d9d833.chunk.css",
-  "main.js": "/ninaandroo/static/js/main.91227d59.chunk.js",
-  "main.js.map": "/ninaandroo/static/js/main.91227d59.chunk.js.map",
+  "main.css": "/ninaandroo/static/css/main.e8358139.chunk.css",
+  "main.js": "/ninaandroo/static/js/main.39657c62.chunk.js",
+  "main.js.map": "/ninaandroo/static/js/main.39657c62.chunk.js.map",
   "static/js/1.6d2579e7.chunk.js": "/ninaandroo/static/js/1.6d2579e7.chunk.js",
   "static/js/1.6d2579e7.chunk.js.map": "/ninaandroo/static/js/1.6d2579e7.chunk.js.map",
   "runtime~main.js": "/ninaandroo/static/js/runtime~main.e7e3e283.js",
@@ -11,8 +11,8 @@
   "static/media/mailbw.svg": "/ninaandroo/static/media/mailbw.76a6d6b4.svg",
   "static/media/main.scss": "/ninaandroo/static/media/mountains.35c68035.jpg",
   "static/media/instabw.svg": "/ninaandroo/static/media/instabw.4c226c04.svg",
-  "static/css/main.59d9d833.chunk.css.map": "/ninaandroo/static/css/main.59d9d833.chunk.css.map",
+  "static/css/main.e8358139.chunk.css.map": "/ninaandroo/static/css/main.e8358139.chunk.css.map",
   "index.html": "/ninaandroo/index.html",
-  "precache-manifest.bcfac8a12c2a1cff3be5a33c53e93743.js": "/ninaandroo/precache-manifest.bcfac8a12c2a1cff3be5a33c53e93743.js",
+  "precache-manifest.87dd7698822deb7dfaaf88bd51090f15.js": "/ninaandroo/precache-manifest.87dd7698822deb7dfaaf88bd51090f15.js",
   "service-worker.js": "/ninaandroo/service-worker.js"
 }

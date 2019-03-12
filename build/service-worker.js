@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ninaandroo/precache-manifest.bcfac8a12c2a1cff3be5a33c53e93743.js"
+  "/ninaandroo/precache-manifest.87dd7698822deb7dfaaf88bd51090f15.js"
 );
 
 workbox.clientsClaim();

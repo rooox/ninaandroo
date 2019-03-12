@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/ninaandroo/static/js/runtime~main.e7e3e283.js"
   },
   {
-    "revision": "91227d5903339831ad82",
-    "url": "/ninaandroo/static/js/main.91227d59.chunk.js"
+    "revision": "39657c6267e086cb43c2",
+    "url": "/ninaandroo/static/js/main.39657c62.chunk.js"
   },
   {
     "revision": "6d2579e784921e734d6a",
     "url": "/ninaandroo/static/js/1.6d2579e7.chunk.js"
   },
   {
-    "revision": "91227d5903339831ad82",
-    "url": "/ninaandroo/static/css/main.59d9d833.chunk.css"
+    "revision": "39657c6267e086cb43c2",
+    "url": "/ninaandroo/static/css/main.e8358139.chunk.css"
   },
   {
-    "revision": "fa6a5032bedf3b4c9e3de72d7c39dcca",
+    "revision": "81f03e619c1717f748a6188c3b48bb94",
     "url": "/ninaandroo/index.html"
   }
 ];
