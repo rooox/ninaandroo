@@ -7,6 +7,29 @@ export default class Videos extends Component {
         <br className="break" />
         <div className="video_container">
           <iframe
+            title="Till We Meet Again"
+            width="280"
+            height="158"
+            src="https://www.youtube.com/embed/gWUr5sHQWjc"
+            frameBorder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          />
+
+          <div>
+            <h1 className="video_title">"Till We Meet Again" (original)</h1>
+            <p className="video_description">
+              I had just heard that a young man in my community had decided to
+              take his own life. As I was sitting in the backyard watching my
+              son play and feeling a tiny piece of how hard it would be to lose
+              a child, I decided I would write a song to give to the family. We
+              hope you enjoy.{" "}
+            </p>
+          </div>
+        </div>
+        <br />
+        <div className="video_container">
+          <iframe
             title="I Only See You"
             width="280"
             height="158"
@@ -59,7 +82,7 @@ export default class Videos extends Component {
               the end was right around 40 minutes. I love the joy that comes
               from a new life entering the world and this song really is in
               honor of those sweet spirits coming down.
-            </p>
+            </p>{" "}
           </div>
         </div>
       </div>

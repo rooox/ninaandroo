@@ -14,11 +14,9 @@ export default class Home extends Component {
           continue to enjoy what we present.
         </h4>
         <br />
+        <h4 className="thanks_blurb bold"> -Nina & Roo</h4>
         <br />
-        <br />
-        <h4 className="thanks_blurb follow">
-          Feel free to follow us with the links below:
-        </h4>
+        <h4 className="thanks_blurb follow">Feel free to follow us!</h4>
         <div className="insta_fb_container">
           <a href="https://www.youtube.com/channel/UCpzd7Kf4IFClcKO63E0CJXw">
             <div className="yt_container " id="home_links">
